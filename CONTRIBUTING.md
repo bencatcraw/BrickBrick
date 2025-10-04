@@ -6,6 +6,9 @@ Bug reports can be submitted through the issues tab using the bug report issue t
 ## Feature Requests
 Like bug reports, feature requests can be submitted through the issues tab using the feature request template. Ensure any features requested have not already been added or requested in the past.
 
+## Pull Requests
+Pull requests are more lenient, but should contain detailed description of changes (and reason for changes), as well as a form of contact.
+
 ## Environment Setup
 Unity 6000.0.35f1 can be installed through [Unity Hub](https://unity.com/download) or through [here](https://unity.com/releases/editor/whats-new/6000.0.35f1).
 
