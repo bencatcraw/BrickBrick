@@ -9,5 +9,10 @@ BrickBrick is made in Unity, and requires version 6000.0.35f1. While it may run 
 
 Upon opening the project in Unity, you will find all objects organized into folders. Most notably, the scripts, pieces, and scenes folders which will give you an idea on how the game works.
 
+## Contribution & Code of Conduct
+Contribution guidelines can be found [here](CONTRIBUTING.md).
+
+Code of Conduct can be found [here](CODE_OF_CONDUCT.md).
+
 ## Help
 If you have any questions, comments, or concerns, feel free to open an issue!
