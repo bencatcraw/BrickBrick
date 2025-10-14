@@ -1,0 +1,1 @@
+I chose the MIT License for this project to keep it simple, while allowing for open collaboration and adoption. The MIT license allows anyone to use, modify, distribute, even commercially, to the game with almost no restrictions. The only main restriction of the MIT license is that proper attribution must be given if the project is used or modified.
